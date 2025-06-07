@@ -1,5 +1,5 @@
 .body { 
-    background-color: #f7f2de;
+    background-color: #F3E6D8;
     font-family: 'Outfit', sans-serif;
 }
 
@@ -31,19 +31,19 @@
 .recipe-title {
     font-family: 'Young Serif', serif;
     font-size: 2.5em;
-    color: #333;
+    color: #302D2B;
     margin-bottom: 15px;
 }
 
 .recipe-description {
     font-size: 1em;
     line-height: 1.5;
-    color: #555;
+    color: #5F574E;
     margin-bottom: 25px;
 }
 
 .preparation-time-section {
-    background-color: #FFF7FC;
+    background-color: #FFF5FA;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 25px;
@@ -65,7 +65,7 @@
 .preparation-time-list li {
     margin-bottom: 8px;
     line-height: 1.4;
-    color: #555;
+    color: #5F574E;
 }
 
 .preparation-time-list li b {
@@ -77,7 +77,7 @@
 .nutrition-title {
     font-family: 'Young Serif', serif;
     font-size: 1.8em;
-    color: #333;
+    color: #302D2B;
     margin-top: 25px;
     margin-bottom: 15px;
 }
@@ -86,7 +86,7 @@
 .instructions-list {
     list-style-position: inside;
     padding-left: 0;
-    color: #555;
+    color: #5F574E;
     margin-bottom: 25px;
 }
 
@@ -112,7 +112,7 @@
 .nutrition-description {
     font-size: 1em;
     line-height: 1.5;
-    color: #555;
+    color: #5F574E;
     margin-bottom: 15px;
 }
 
@@ -125,13 +125,13 @@
 .nutrition-table th,
 .nutrition-table td {
     padding: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #E4DCD8;
     text-align: left;
 }
 
 .nutrition-table th {
     font-weight: bold;
-    color: #333;
+    color: #302D2B;
 }
 
 .nutrition-table tbody tr:last-child td {
